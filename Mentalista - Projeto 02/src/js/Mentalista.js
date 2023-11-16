@@ -21,6 +21,6 @@ if(jogar == 's'){
          alert('O número secreto é maior que ' + chute);
     }
     
-    iterador += 1;
+    iterador += 10;
   }
 }
